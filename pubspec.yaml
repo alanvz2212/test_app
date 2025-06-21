@@ -37,12 +37,13 @@ dependencies:
   firebase_core: ^3.14.0
   firebase_auth: ^5.6.0
   cloud_firestore: ^5.6.9
+  flutter_launcher_icons: ^0.14.4
 
 
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/Images/logoraw.png" # <-- your icon path
+  image_path: "assets/Images/flipkart-logo-transparent-png-download-0.webp" # <-- your icon path
 
 dev_dependencies:
   flutter_test:
